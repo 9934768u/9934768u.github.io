@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Klasy</title>
+	<link> rel="stylesheet" href="menu_pionowe.css" type="text/css">
+	</head>
+	<body>
+		<div>
+			<nav>
+				<ul>
+					<li><a href="link 1">3a</a></li>
+					<li><a href="link 1">3b</a></li>
+					<li><a href="link 1">3c</a></li>
+					<li><a href="link 1">3d</a></li>
+					<li><a href="link 1">3e</a></li>
+					<li><a href="link 1">3f</a></li>
+				</ul>	
+			</nav>
+		</div>
+	</body>
+	</html>
