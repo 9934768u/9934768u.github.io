@@ -17,3 +17,7 @@ li a
 	border-radius: 4px;
 	box-shadow: 2px 2px 2px silver;
 }
+li a:hover
+{
+	background: silver;
+}
